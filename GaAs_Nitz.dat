@@ -1,3 +1,4 @@
+#test 2
 # BoltzWann module of the Wannier90 code modified by Emad.
 # [Isothermal Nernst along Bz in SI units, i.e. in V/KT]
 # [the Nity coefficient is defined in the documentation, and is an ingredient of
